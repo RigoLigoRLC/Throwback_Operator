@@ -1,0 +1,68 @@
+Source,/run/media/rigoligo/storage/电子项目/Throwback_Operator/Schematic/OPL3_VGM_Player (1)/OPL3_VGM_Player.sch
+Kicad Rev,Eeschema 5.1.5
+Generated Date,2020年03月16日 星期一 08时03分34秒
+
+Title,Not Set
+Company,Not Set
+Revision,Not Set
+Date Issue,Not Set
+
+Reference,Value,Library,Library Ref
+U2,STM32F103C8Tx,OPL3_VGM_Player-rescue,STM32F103C8Tx-stm32
+U1,LD1117S33TR_SOT223,OPL3_VGM_Player-rescue,LD1117S33TR_SOT223-regul
+J1,USB_OTG,OPL3_VGM_Player-rescue,USB_OTG-conn
+C1,10uF,OPL3_VGM_Player-rescue,C_Small-device
+C2,10uF,OPL3_VGM_Player-rescue,C_Small-device
+U3,CH340E,OPL3_VGM_Player-rescue,CH340E-ch340
+C3,100nF,OPL3_VGM_Player-rescue,C_Small-device
+L1,BLM18PG221SN1D,OPL3_VGM_Player-rescue,L-device
+C4,10nF,OPL3_VGM_Player-rescue,C_Small-device
+C5,100nF,OPL3_VGM_Player-rescue,C_Small-device
+C6,10uF,OPL3_VGM_Player-rescue,CP_Small-device
+C9,100nF,OPL3_VGM_Player-rescue,C_Small-device
+C10,100nF,OPL3_VGM_Player-rescue,C_Small-device
+C11,100nF,OPL3_VGM_Player-rescue,C_Small-device
+Y1,8MHz,OPL3_VGM_Player-rescue,Crystal_Small-device
+C7,22pF,OPL3_VGM_Player-rescue,C_Small-device
+C8,22pF,OPL3_VGM_Player-rescue,C_Small-device
+J2,Conn_02x03_Odd_Even,OPL3_VGM_Player-rescue,Conn_02x03_Odd_Even-conn
+R2,100K,OPL3_VGM_Player-rescue,R_Small-device
+R1,100K,OPL3_VGM_Player-rescue,R_Small-device
+J3,Micro_SD_Card,OPL3_VGM_Player-rescue,Micro_SD_Card-conn
+C12,100nF,OPL3_VGM_Player-rescue,C_Small-device
+SW1,SW_Push_Dual,OPL3_VGM_Player-rescue,SW_Push_Dual-switches
+R3,1K,OPL3_VGM_Player-rescue,R_Small-device
+R4,10K,OPL3_VGM_Player-rescue,R_Small-device
+L2,33uH,OPL3_VGM_Player-rescue,L_Small-device
+C13,10uF,OPL3_VGM_Player-rescue,CP_Small-device
+U4,YMF262-M,OPL3_VGM_Player-rescue,YMF262-M-OPL3
+U5,YAC512-M,OPL3_VGM_Player-rescue,YAC512-M-OPL3
+C14,100nF,OPL3_VGM_Player-rescue,C_Small-device
+C15,100nF,OPL3_VGM_Player-rescue,C_Small-device
+R5,10K,OPL3_VGM_Player-rescue,R_Small-device
+J4,Conn_01x04,OPL3_VGM_Player-rescue,Conn_01x04-conn
+U6,TL074,OPL3_VGM_Player-rescue,TL074-linear
+C20,100nF,OPL3_VGM_Player-rescue,C_Small-device
+C19,10uF,OPL3_VGM_Player-rescue,CP_Small-device
+C16,68pF,OPL3_VGM_Player-rescue,C_Small-device
+R6,33,OPL3_VGM_Player-rescue,R_Small-device
+C18,2.7nF,OPL3_VGM_Player-rescue,C_Small-device
+C17,2.7nF,OPL3_VGM_Player-rescue,C_Small-device
+DS1,128x32_I2C_OLED,OPL3_VGM_Player-rescue,128x32_I2C_OLED-oled
+R7,4.7,OPL3_VGM_Player-rescue,R_Small-device
+L3,10uH,OPL3_VGM_Player-rescue,L_Small-device
+C21,10uF,OPL3_VGM_Player-rescue,C_Small-device
+R8,4.7K,OPL3_VGM_Player-rescue,R_Small-device
+R9,4.7K,OPL3_VGM_Player-rescue,R_Small-device
+SW2,SW_Push_Dual,OPL3_VGM_Player-rescue,SW_Push_Dual-switches
+SW3,SW_Push_Dual,OPL3_VGM_Player-rescue,SW_Push_Dual-switches
+SW4,SW_Push_Dual,OPL3_VGM_Player-rescue,SW_Push_Dual-switches
+SW5,SW_Push_Dual,OPL3_VGM_Player-rescue,SW_Push_Dual-switches
+C22,10uF,OPL3_VGM_Player-rescue,CP_Small-device
+C23,10uF,OPL3_VGM_Player-rescue,CP_Small-device
+RV1,R_POT_Dual,OPL3_VGM_Player-rescue,R_POT_Dual-device
+J5,Audio-Jack-3,conn_custom,Audio-Jack-3
+H1,M3,OPL3_VGM_Player-rescue,MountingHole-mechanical
+H2,M3,OPL3_VGM_Player-rescue,MountingHole-mechanical
+H3,M3,OPL3_VGM_Player-rescue,MountingHole-mechanical
+H4,M3,OPL3_VGM_Player-rescue,MountingHole-mechanical
